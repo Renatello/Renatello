@@ -1,4 +1,5 @@
 # Hi, I'm Renat Galyamov 👋
+I'm a freelance Vue.js/WordPress developer. 
 
 <!--
 **Renatello/Renatello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
