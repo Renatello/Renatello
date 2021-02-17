@@ -4,7 +4,7 @@ I'm a Vue.js/WordPress developer.
 - 📱 I share coding tips and tricks on [my personal blog](https://renatello.com).
 - 👌 I run multiple projects.
 - 💰 Let's can make money together. [Contact me](https://renatello.com/hire/).
-- 👋 Let's connect. [Follow me](https://github.com/Renatello/) on GitHub.
+- 👋 Let's connect. [Follow me](https://twitter.com/renatello/) on Twitter.
 - ☕ I'm helping other developers by sharing my knowledge for free. You can support me by [buying me a coffee](https://www.buymeacoffee.com/renat).
 
 <!--
